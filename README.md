@@ -10,7 +10,7 @@ Examples
  * [IPython notebook](http://patrickfuller.github.io/jgraph/examples/ipython.html)
  * [les misérables](http://patrickfuller.github.io/jgraph/examples/miserables.html)
  * [github connections](http://patrickfuller.github.io/jgraph/examples/github.html)
- * [github connections](http://patrickfuller.github.io/jgraph/examples/netscience.html)
+ * [netscience](http://luizhnlorena.github.io/jgraph/examples/netscience.html)
 
 IPython
 =======
