@@ -2,7 +2,7 @@ jgraph
 ======
 
 An embeddable webGL graph visualization library.
-http://patrickfuller.github.io/jgraph/
+http://luizhnlorena.github.io/jgraph/
 
 Examples
 ========
